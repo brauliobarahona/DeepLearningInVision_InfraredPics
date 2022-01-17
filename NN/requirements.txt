@@ -1,0 +1,8 @@
+jupyter
+matplotlib
+scipy
+numpy
+pandas
+tensorflow
+glob2
+pytest-shutil
