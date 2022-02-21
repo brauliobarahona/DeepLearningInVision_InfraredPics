@@ -8,10 +8,10 @@ Here I summarize the learnings from Lars Hubacher and his team on the use of dee
 | Classical (LeNet-5) | [Keras_Tuner.ipynb](ConvNet_from_Scratch/ConvNet_from_Scratch/Keras_Tuner.ipynb) | Models with different number of neurons and depth |
 | Classical (LeNet-5) | [Sandro_Deep_Learning.ipynb](ConvNet_from_Scratch/ConvNet_from_Scratch/Sandro_Deep_Learning.ipynb) | Models with different number of neurons and dropout settings, testing different train/test splits |
 | Feedforward | [NN.ipynb](NN/NN.ipynb) | Feedforward NNs can learn if trained enough |
-| All of those under `keras.applications` | [#1_benchmarking_kerasmodels.ipynb](Pretrained CNN's/#1_benchmarking_kerasmodels.ipynb) | 27 models, reaching ~0.90 accuracy |
+| All of those under `keras.applications` | [#1_benchmarking_kerasmodels.ipynb](Pretrained_CNN's/#1_benchmarking_kerasmodels.ipynb) | 27 models, reaching ~0.90 accuracy |
 | All of those under `keras.applications` retraining one of the FC layers | (See presentation) | 27 models, reaching ~0.92 accuracy |
-| mobilenetV2 | [#2_mobilenetV2.ipynb](Pretrained CNN's/#2_mobilenetV2.ipynb) | Not clear if it worked out |
-| ResNet50 | [#3_ResNet50.ipynb](Pretrained CNN's/#3_ResNet50.ipynb) | Not clear if it worked out |
+| mobilenetV2 | [#2_mobilenetV2.ipynb](Pretrained_CNN's/#2_mobilenetV2.ipynb) | Not clear if it worked out |
+| ResNet50 | [#3_ResNet50.ipynb](Pretrained_CNN's/#3_ResNet50.ipynb) | Not clear if it worked out |
 
 # Tools # 
 * [TensorFlow](https://www.tensorflow.org)
